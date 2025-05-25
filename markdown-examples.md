@@ -10,6 +10,6 @@ Markdown поддерживает маркированные и нумерова
 # Ссылки на изображения
 Ссылки в Markdown создаются с помощью квадратных скобок, заключающих текст ссылки, и круглых скобок, содержащих URL.
 ## Например: 
-[Мировая экономика]([https://www.crugroup.com/contentassets/c1ed243a948e4eed9862077f5ac75205/business-chart-with-world-map_depositphotos_90748488_ds.jpg](https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1403/10/22/1403102210201153431873324.jpg))
+[Мировая экономика](https://www.crugroup.com/contentassets/c1ed243a948e4eed9862077f5ac75205/business-chart-with-world-map_depositphotos_90748488_ds.jpg)
 # Фрагменты и блоки кода 
 Фрагменты кода в Markdown выделяются с помощью обратных кавычек (``). Короткие фрагменты кода обрамляются одной обратной кавычкой, длинные — тремя.
